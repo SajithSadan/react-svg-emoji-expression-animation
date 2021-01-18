@@ -2,15 +2,15 @@
 
 Demo to show emoji expression using React and SVG
 
-# Dependency
+## Dependency
 
 React
 
-# Dev Dependency
+## Dev Dependency
 
 Parcel
 
-# To run in local machine
+## To run in local machine
 
 - Clone the app
 - Install packages using `npm install`
